@@ -1,4 +1,5 @@
 ![get-my-invoices](https://www.getmyinvoices.com/wp-content/uploads/2016/04/logo_login.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNerzal%2Fgogmi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNerzal%2Fgogmi?ref=badge_shield)
 
 # gogmi is a golang-library for getmyinvoices.com
 
@@ -31,3 +32,7 @@ if err != nil {
 // do something with suppliers
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNerzal%2Fgogmi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNerzal%2Fgogmi?ref=badge_large)
